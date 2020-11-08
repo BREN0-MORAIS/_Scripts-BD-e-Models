@@ -1,0 +1,21 @@
+/*Modelagem básica*/
+
+#CLIENTE
+|_NOME    		-> CARACTER(30)
+|_CPF     		-> NUMERICO(11)
+|_EMAIL   		-> CARACTER(30)
+|_TELEFONE   	-> CARACTER(30)
+|_ENDERECO   	-> CARACTER(100)
+|_SEXO   		-> CARACTER(1)
+
+
+/***********************PROCESSO DE MODELAGEM***********************/
+/*FASE 1 E 2*/
+
+#MODELAGEM CONCEITUAL -> RASCUNHO
+#MODELAGEM LÓGICA -> QUALQUER PROGRAMA DE MODELAGEM
+
+
+/*FASE 3*/
+
+#MODELAGEM FISICA -> SGBD
