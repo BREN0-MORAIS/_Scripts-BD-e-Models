@@ -30,7 +30,7 @@
        <li>💾PostgreSQL ⛔
               <ul>
              <li>
-              <a href=" https://github.com/BREN0-MORAIS/_Scripts-BD-e-Models/tree/main/Modelagem" >Model</a>
+              <a href="https://github.com/BREN0-MORAIS/_Scripts-BD-e-Models/tree/main/Modelagem" >Model</a>
              </li>
              <li>
                <a href="">Scripts</a>
