@@ -10,17 +10,17 @@
        <li>💾MySQL
           <ul>
              <li>
-              <a href=" " >Model</a>
+              <a href="https://github.com/BREN0-MORAIS/_Scripts-BD-e-Models/tree/main/Modelagem" >Model</a>
              </li>
              <li>
-               <a href="">Scripts</a>
+               <a href="https://github.com/BREN0-MORAIS/_Scripts-BD-e-Models/tree/main/MySql">Scripts</a>
              </li>
           </ul>
       </li>
        <li>💾SQL Server ⛔
           <ul>
              <li>
-              <a href=" " >Model</a>
+              <a href="https://github.com/BREN0-MORAIS/_Scripts-BD-e-Models/tree/main/Modelagem " >Model</a>
              </li>
              <li>
                <a href="">Scripts</a>
@@ -30,7 +30,7 @@
        <li>💾PostgreSQL ⛔
               <ul>
              <li>
-              <a href=" " >Model</a>
+              <a href=" https://github.com/BREN0-MORAIS/_Scripts-BD-e-Models/tree/main/Modelagem" >Model</a>
              </li>
              <li>
                <a href="">Scripts</a>
